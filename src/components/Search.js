@@ -1,6 +1,8 @@
 
 
-function AddFoodForm(props) {
+
+
+function Search(props) {
 
 
     return (
@@ -12,4 +14,4 @@ function AddFoodForm(props) {
     )
 }
 
-export default AddFoodForm;
+export default Search;
